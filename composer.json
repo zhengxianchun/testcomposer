@@ -2,6 +2,7 @@
   "name": "zhengxianchun/testcomposer",
   "license": "MIT",
   "minimum-stability": "dev",
+  "type": "library",
   "autoload": {
     "psr-4": {
       "Flower\\Rose\\": "src/Flower/Rose",
