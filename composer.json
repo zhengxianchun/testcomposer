@@ -1,5 +1,6 @@
 {
   "name": "zhengxianchun/testcomposer",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Flower\\Rose\\": "src/Flower/Rose",
